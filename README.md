@@ -1,4 +1,4 @@
-Microservices with Spring Boot and Spring Cloud
+<b>Microservices with Spring Boot and Spring Cloud</b>
 
 Installing Tools
 Eclipse & Embedded Maven
